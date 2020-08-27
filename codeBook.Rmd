@@ -1,0 +1,96 @@
+---
+title: "README.md"
+author: "Tsagay"
+date: "8/20/2020"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+__CODE BOOK__
+
+*Module 3 assignment*  
+The variables code book
+
+subjectid  - ID of the participants
+activitylabel - Activity label
+tbodyaccmeanx - mean time of body acceleration in x 
+tbodyaccmeany - mean time acc in y  
+tbodyaccmeanz - mean time acc in z  
+tgravityaccmeanx - mean of gravity acceleration of x  
+tgravityaccmeany- mean of gravity acceleration of y  
+tgravityaccmeanz - ...  
+tbodyaccjerkmeanx  
+tbodyaccjerkmeany  
+tbodyaccjerkmeanz  
+tbodygyromeanx  
+tbodygyromeany  
+tbodygyromeanz  
+tbodygyrojerkmeanx  
+tbodygyrojerkmeany  
+tbodygyrojerkmeanz  
+tbodyaccmagmean  
+tgravityaccmagmean  
+tbodyaccjerkmagmean  
+tbodygyromagmean  
+tbodygyrojerkmagmean  
+fbodyaccmeanx  
+fbodyaccmeany  
+fbodyaccmeanz  
+fbodyaccmeanfreqx  
+fbodyaccmeanfreqy  
+fbodyaccmeanfreqz 
+fbodyaccjerkmeanx  
+fbodyaccjerkmeany  
+fbodyaccjerkmeanz  
+fbodyaccjerkmeanfreqx  
+fbodyaccjerkmeanfreqy  
+fbodyaccjerkmeanfreqz  
+fbodygyromeanx  
+fbodygyromeany  
+fbodygyromeanz  
+fbodygyromeanfreqx  
+fbodygyromeanfreqy  
+fbodygyromeanfreqz
+fbodyaccmagmean  
+fbodyaccmagmeanfreq  
+fbodybodyaccjerkmagmean  
+fbodybodyaccjerkmagmeanfreq  
+fbodybodygyromagmean  
+fbodybodygyromagmeanfreq  
+fbodybodygyrojerkmagmean  
+fbodybodygyrojerkmagmeanfreq  
+tbodyaccstdx  
+tbodyaccstdy  
+tbodyaccstdz  
+tgravityaccstdx  
+tgravityaccstdy  
+tgravityaccstdz  
+tbodyaccjerkstdx  
+tbodyaccjerkstdy  
+tbodyaccjerkstdz  
+tbodygyrostdx  
+tbodygyrostdy  
+tbodygyrostdz  
+tbodygyrojerkstdx  
+tbodygyrojerkstdy  
+tbodygyrojerkstdz  
+tbodyaccmagstd  
+tgravityaccmagstd  
+tbodyaccjerkmagstd  
+tbodygyromagstd  
+tbodygyrojerkmagstd  
+fbodyaccstdx  
+fbodyaccstdy  
+fbodyaccstdz  
+fbodyaccjerkstdx  
+fbodyaccjerkstdy  
+fbodyaccjerkstdz  
+fbodygyrostdx  
+fbodygyrostdy  
+fbodygyrostdz  
+fbodyaccmagstd  
+fbodybodyaccjerkmagstd  
+fbodybodygyromagstd  
+fbodybodygyrojerkmagstd  
